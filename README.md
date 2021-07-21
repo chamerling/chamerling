@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**chamerling/chamerling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+I'm Christophe Hamerling, passionate Lead Developer. Enjoying sharing my experience and expertise in software development, architecture, methodology with talented people to build and provide Open Source GAFAM alternatives.
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chamerling&show_icons=true" alt="Christophe Hamerling Github Stats"></img>
+</p>
 
-Here are some ideas to get you started:
+#### Get in touch :speech_balloon:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐥 <a href="https://twitter.com/chamerling">Follow me on Twitter</a>
+
+📘 <a href="https://">Reach me on LinkedIn</a>
