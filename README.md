@@ -13,4 +13,4 @@ I'm Christophe Hamerling, passionate Lead Developer. Enjoying sharing my experie
 
 🐥 <a href="https://twitter.com/chamerling">Follow me on Twitter</a>
 
-📘 <a href="https://">Reach me on LinkedIn</a>
+📘 <a href="https://www.linkedin.com/in/chamerling/">Reach me on LinkedIn</a>
