@@ -10,7 +10,11 @@
 </p>
 
 <p>
-I'm Christophe Hamerling, passionate Lead Developer. Enjoying sharing my experience and expertise in software development, architecture, methodology with talented people to build and provide Open Source GAFAM alternatives.
+I'm Christophe Hamerling, passionate Lead Developer. Enjoying sharing my experience and expertise in software development, architecture, methodology with talented people to build software that matters.
+</p>
+
+<p>
+  After 15 years working on Open Source GAFAM alternatives, I am now on a mission to build software that revolutionizes healthcare.
 </p>
 
 <p align="center">
