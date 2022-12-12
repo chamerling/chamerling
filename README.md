@@ -10,7 +10,7 @@
 </p>
 
 <p>
-I'm Christophe Hamerling, passionate Lead Developer. Enjoying sharing my experience and expertise in software development, architecture, methodology with talented people to build software that matters.
+I'm Christophe Hamerling, Software Engineer/Developer. Enjoying sharing my experience and expertise in software development, architecture, methodology with talented people to build software that matters.
 </p>
 
 <p>
