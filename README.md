@@ -17,6 +17,3 @@ I'm Christophe Hamerling, Software Engineer/Developer. Enjoying sharing my exper
   After 15 years working on Open Source GAFAM alternatives, I am now on a mission to build software that revolutionizes healthcare.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamerling&show_icons=true&theme=gotham&include_all_commits=true" alt="Christophe Hamerling Github Stats"></img>
-</p>
