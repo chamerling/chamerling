@@ -1,19 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
-  <a href="https://twitter.com/chamerling">
-    <img align="left" alt="Christophe Hamerling | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/chamerling/">
-    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+I'm Christophe Hamerling, a Staff Software Engineer with over 20 years of experience in software development, architecture, and methodology. I'm passionate about building software that matters, and I love sharing my knowledge and expertise with talented people.
 </p>
 
 <p>
-I'm Christophe Hamerling, Software Engineer/Developer. Enjoying sharing my experience and expertise in software development, architecture, methodology with talented people to build software that matters.
-</p>
-
-<p>
-  After 15 years working on Open Source GAFAM alternatives, I am now on a mission to build software that revolutionizes healthcare.
+  I have spent 15 years building open source alternatives to GAFAM products. Now, I am on a mission to use my skills to revolutionize healthcare.
 </p>
 
